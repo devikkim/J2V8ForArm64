@@ -42,3 +42,7 @@ cmake {
     arguments "-DANDROID_UNIFIED_HEADERS=ON"
 }
 ```
+
+## Author
+
+devikkim, devikkim@gmail.com

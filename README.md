@@ -3,7 +3,7 @@ This repository is extension of J2V8 for support architecture arm64
 
 go -> [Complie V8 for Android](https://github.com/leibniz55/ComplieV8ForAndroid/blob/master/README.md)
 
-go -> [j2v8]](https://github.com/eclipsesource/J2V8)
+go -> [j2v8](https://github.com/eclipsesource/J2V8)
 
 1. import `include`, `armeabi-v7a`, `arm64-v8a`, `x86`, `include` folder
 ```
